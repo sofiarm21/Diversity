@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Diff</key>
+	<array>
+		<dict>
+			<key>ModifiedContent</key>
+			<string>        highlightByLanguage(language: nil, with: #colorLiteral(red: 0.9607843137254902, green: 0.7058823529411765, blue: 0.2, alpha: 1.0))
+        highlightByContinent(continent: .Asia, with:#colorLiteral(red: 0.23921568627450981, green: 0.6745098039215687, blue: 0.9686274509803922, alpha: 1.0))
+</string>
+			<key>ModifiedRange</key>
+			<string>{1519, 297}</string>
+			<key>OriginalContent</key>
+			<string>        highlightByLanguage(language: &lt;#T##language##Language#&gt;, with: #colorLiteral(red: 0.9607843137254902, green: 0.7058823529411765, blue: 0.2, alpha: 1.0))
+        highlightByContinent(continent: &lt;#T##continent##Continent#&gt;, with:#colorLiteral(red: 0.23921568627450981, green: 0.6745098039215687, blue: 0.9686274509803922, alpha: 1.0))
+</string>
+			<key>OriginalRange</key>
+			<string>{1519, 341}</string>
+		</dict>
+	</array>
+	<key>File</key>
+	<string>Chapters/Chapter1.playgroundchapter/Pages/01.playgroundpage/main.swift</string>
+</dict>
+</plist>

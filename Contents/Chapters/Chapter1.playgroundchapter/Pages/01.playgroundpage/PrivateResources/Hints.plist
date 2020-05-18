@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Hints</key>
+	<array>
+		<dict>
+			<key>Content</key>
+			<string>To complete the functions type . and see the options below, you could also set them to nil</string>
+		</dict>
+	</array>
+	<key>success</key>
+	<dict>
+		<key>_LOCALIZABLE_</key>
+		<dict>
+			<key>Content</key>
+			<string>
+### ทำได้เยี่ยมมาก!
+
+**อย่าลืมว่า**คุณสมบัติของเครื่องมือเหล่านี้:
+
+* `onTouchMoved`: นำตัวจัดการอีเวนต์ “เลื่อนตำแหน่งที่แตะแล้ว” ไว้กับพารามิเตอร์ `Touch`
+
+* `onGraphicTouched`: นำตัวจัดการอีเวนต์ “แตะกราฟิกแล้ว” ไว้กับพารามิเตอร์ `Graphic`
+
+ใน[**หน้าถัดไป**](@next) คุณจะค้นพบวิธีการปรับแต่งกราฟิกเมื่อคุณแตะ
+	</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
